@@ -1,0 +1,903 @@
+code,error
+1333,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1438,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1447,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1448,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1451,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1712,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1721,only algorithm code 1 and 2 are supported
+1723,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1724,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1726,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1737,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1766,No objects to concatenate
+1780,No objects to concatenate
+1798,No objects to concatenate
+1801,only algorithm code 1 and 2 are supported
+1803,only algorithm code 1 and 2 are supported
+1812,only algorithm code 1 and 2 are supported
+1820,only algorithm code 1 and 2 are supported
+1824,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:14>], /'Encoding', /'UniJIS-UTF16-H']"
+1828,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+1840,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1847,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1867,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:16>], /'Encoding', /'UniJIS-UTF16-H']"
+1870,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+1871,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1892,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1893,only algorithm code 1 and 2 are supported
+1925,No objects to concatenate
+1928,No objects to concatenate
+1929,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1945,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1948,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+1963,No objects to concatenate
+1975,No objects to concatenate
+1976,only algorithm code 1 and 2 are supported
+2001,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+2060,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2108,only algorithm code 1 and 2 are supported
+2122,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2138,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2150,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2160,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2164,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2168,No objects to concatenate
+2170,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2173,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2174,only algorithm code 1 and 2 are supported
+2175,only algorithm code 1 and 2 are supported
+2181,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2185,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2195,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2217,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2221,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2222,No objects to concatenate
+2229,only algorithm code 1 and 2 are supported
+2266,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2282,No objects to concatenate
+2304,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2321,only algorithm code 1 and 2 are supported
+2329,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2330,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2331,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2335,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:15>], /'Encoding', /'UniJIS-UTF16-H']"
+2337,No objects to concatenate
+2351,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2371,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2374,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2376,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2384,only algorithm code 1 and 2 are supported
+2389,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2393,only algorithm code 1 and 2 are supported
+2395,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2406,only algorithm code 1 and 2 are supported
+2410,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2411,only algorithm code 1 and 2 are supported
+2413,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+2424,No objects to concatenate
+2432,only algorithm code 1 and 2 are supported
+2436,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2445,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2454,No objects to concatenate
+2467,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2469,only algorithm code 1 and 2 are supported
+2471,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2480,No objects to concatenate
+2491,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2493,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2503,only algorithm code 1 and 2 are supported
+2531,only algorithm code 1 and 2 are supported
+2587,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2590,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2593,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+2607,only algorithm code 1 and 2 are supported
+2612,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2659,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2666,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2669,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+2674,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+2675,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2676,No objects to concatenate
+2681,only algorithm code 1 and 2 are supported
+2686,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2687,No objects to concatenate
+2721,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2733,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2735,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2737,only algorithm code 1 and 2 are supported
+2743,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2760,only algorithm code 1 and 2 are supported
+2768,No objects to concatenate
+2782,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2801,No objects to concatenate
+2802,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2805,only algorithm code 1 and 2 are supported
+2810,only algorithm code 1 and 2 are supported
+2813,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2815,No objects to concatenate
+2830,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2877,No objects to concatenate
+2884,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2892,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2894,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2914,only algorithm code 1 and 2 are supported
+2915,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2922,only algorithm code 1 and 2 are supported
+2925,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+2928,only algorithm code 1 and 2 are supported
+2929,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2930,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2931,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2933,No objects to concatenate
+2974,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2986,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+2987,only algorithm code 1 and 2 are supported
+3035,only algorithm code 1 and 2 are supported
+3040,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3050,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3053,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3054,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3055,only algorithm code 1 and 2 are supported
+3066,No objects to concatenate
+3082,No objects to concatenate
+3086,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3098,No objects to concatenate
+3101,only algorithm code 1 and 2 are supported
+3107,only algorithm code 1 and 2 are supported
+3110,only algorithm code 1 and 2 are supported
+3133,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3136,No objects to concatenate
+3159,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3167,No objects to concatenate
+3187,"Invalid dictionary construct: [/'Type', /'Font', /'Subtype', /'Type0', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Encoding', /'UniJIS-UTF16-H', /'DescendantFonts', [<PDFObjRef:14>]]"
+3199,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3201,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3223,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3231,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3264,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3266,only algorithm code 1 and 2 are supported
+3276,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3302,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3316,only algorithm code 1 and 2 are supported
+3322,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3350,No objects to concatenate
+3356,only algorithm code 1 and 2 are supported
+3374,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3396,min() arg is an empty sequence
+3397,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3401,only algorithm code 1 and 2 are supported
+3421,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3422,No objects to concatenate
+3423,No objects to concatenate
+3433,only algorithm code 1 and 2 are supported
+3434,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3437,No objects to concatenate
+3440,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3454,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3458,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3475,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3477,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3480,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3482,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3484,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3486,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3490,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3491,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3494,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3496,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3498,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3529,No objects to concatenate
+3536,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3540,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3541,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3543,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3546,No objects to concatenate
+3550,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3556,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3557,No objects to concatenate
+3558,No objects to concatenate
+3559,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3562,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3566,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3577,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3607,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3626,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3627,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3628,No objects to concatenate
+3630,only algorithm code 1 and 2 are supported
+3636,only algorithm code 1 and 2 are supported
+3640,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3646,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3647,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3649,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3652,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3653,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3665,No objects to concatenate
+3666,No objects to concatenate
+3667,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3670,No objects to concatenate
+3673,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3676,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3677,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3678,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3681,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3688,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3689,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3694,No objects to concatenate
+3738,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3744,only algorithm code 1 and 2 are supported
+3762,only algorithm code 1 and 2 are supported
+3765,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3772,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3774,only algorithm code 1 and 2 are supported
+3775,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3777,No objects to concatenate
+3782,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3784,only algorithm code 1 and 2 are supported
+3803,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3807,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3816,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3817,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3826,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3830,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3834,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3837,only algorithm code 1 and 2 are supported
+3840,No objects to concatenate
+3843,only algorithm code 1 and 2 are supported
+3845,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3848,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3853,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3854,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3857,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3861,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3864,only algorithm code 1 and 2 are supported
+3877,No objects to concatenate
+3878,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3891,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3908,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3915,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3919,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3920,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3922,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3927,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3928,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3932,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3935,No objects to concatenate
+3937,No objects to concatenate
+3939,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3943,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3947,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3954,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3955,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3961,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3967,No objects to concatenate
+3977,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3987,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3991,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3992,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3994,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+3996,only algorithm code 1 and 2 are supported
+4005,No objects to concatenate
+4016,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4017,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4019,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4020,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4021,only algorithm code 1 and 2 are supported
+4027,only algorithm code 1 and 2 are supported
+4044,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:15>], /'Encoding', /'UniJIS-UTF16-H']"
+4046,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:14>], /'Encoding', /'UniJIS-UTF16-H']"
+4053,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4055,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4061,only algorithm code 1 and 2 are supported
+4063,only algorithm code 1 and 2 are supported
+4078,No objects to concatenate
+4080,No objects to concatenate
+4100,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4102,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4114,No objects to concatenate
+4119,No objects to concatenate
+4151,only algorithm code 1 and 2 are supported
+4168,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4170,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4174,No objects to concatenate
+4176,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4177,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4178,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:11>], /'Encoding', /'UniJIS-UTF16-H']"
+4193,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4206,No objects to concatenate
+4222,No objects to concatenate
+4228,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4229,only algorithm code 1 and 2 are supported
+4234,No objects to concatenate
+4235,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4238,No objects to concatenate
+4243,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4274,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4275,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4284,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4304,only algorithm code 1 and 2 are supported
+4307,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4308,only algorithm code 1 and 2 are supported
+4320,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4323,No objects to concatenate
+4327,only algorithm code 1 and 2 are supported
+4334,only algorithm code 1 and 2 are supported
+4341,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:22>], /'Encoding', /'UniJIS-UTF16-H']"
+4345,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4348,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4355,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4356,only algorithm code 1 and 2 are supported
+4386,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4387,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4394,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4396,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4397,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4403,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4422,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4423,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4427,only algorithm code 1 and 2 are supported
+4428,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4435,only algorithm code 1 and 2 are supported
+4439,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4443,only algorithm code 1 and 2 are supported
+4446,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4461,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4463,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4481,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4482,No objects to concatenate
+4484,No objects to concatenate
+4486,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4490,No objects to concatenate
+4491,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4494,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4503,only algorithm code 1 and 2 are supported
+4506,only algorithm code 1 and 2 are supported
+4512,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4521,only algorithm code 1 and 2 are supported
+4523,only algorithm code 1 and 2 are supported
+4524,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4526,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+4541,only algorithm code 1 and 2 are supported
+4544,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4548,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+4552,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4556,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4558,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4574,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4578,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4579,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4581,only algorithm code 1 and 2 are supported
+4584,min() arg is an empty sequence
+4592,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4593,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4598,only algorithm code 1 and 2 are supported
+4612,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4617,only algorithm code 1 and 2 are supported
+4621,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4625,only algorithm code 1 and 2 are supported
+4627,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4649,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4650,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4658,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4667,only algorithm code 1 and 2 are supported
+4671,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4676,No objects to concatenate
+4678,No objects to concatenate
+4680,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4709,only algorithm code 1 and 2 are supported
+4714,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4719,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4722,only algorithm code 1 and 2 are supported
+4732,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4739,No objects to concatenate
+4752,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4760,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4761,only algorithm code 1 and 2 are supported
+4771,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4812,only algorithm code 1 and 2 are supported
+4819,only algorithm code 1 and 2 are supported
+4820,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4826,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4838,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4840,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4888,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4901,only algorithm code 1 and 2 are supported
+4917,only algorithm code 1 and 2 are supported
+4918,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4922,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4926,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4928,only algorithm code 1 and 2 are supported
+4934,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4936,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4951,No objects to concatenate
+4960,only algorithm code 1 and 2 are supported
+4963,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4973,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x82o\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4974,only algorithm code 1 and 2 are supported
+4978,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4979,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4980,only algorithm code 1 and 2 are supported
+4985,only algorithm code 1 and 2 are supported
+4992,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+4998,only algorithm code 1 and 2 are supported
+4999,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5013,only algorithm code 1 and 2 are supported
+5021,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5070,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5108,only algorithm code 1 and 2 are supported
+5184,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5189,only algorithm code 1 and 2 are supported
+5192,only algorithm code 1 and 2 are supported
+5208,only algorithm code 1 and 2 are supported
+5218,only algorithm code 1 and 2 are supported
+5277,No objects to concatenate
+5285,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5290,only algorithm code 1 and 2 are supported
+5302,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5331,No objects to concatenate
+5333,only algorithm code 1 and 2 are supported
+5344,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5356,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5357,only algorithm code 1 and 2 are supported
+5358,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x82o\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5363,No objects to concatenate
+5406,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5440,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5476,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5480,No objects to concatenate
+5491,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5603,No objects to concatenate
+5699,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5707,only algorithm code 1 and 2 are supported
+5711,only algorithm code 1 and 2 are supported
+5715,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5721,No objects to concatenate
+5724,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5741,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5803,only algorithm code 1 and 2 are supported
+5817,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5857,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5911,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5915,No objects to concatenate
+5918,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5922,only algorithm code 1 and 2 are supported
+5923,No objects to concatenate
+5933,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5942,No objects to concatenate
+5945,only algorithm code 1 and 2 are supported
+5949,only algorithm code 1 and 2 are supported
+5957,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5959,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+5986,only algorithm code 1 and 2 are supported
+5989,only algorithm code 1 and 2 are supported
+6005,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6023,No objects to concatenate
+6028,only algorithm code 1 and 2 are supported
+6029,No objects to concatenate
+6033,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6034,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6046,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6049,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6050,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6054,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6062,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6073,only algorithm code 1 and 2 are supported
+6074,"Invalid dictionary construct: [/'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'DescendantFonts', [<PDFObjRef:19>], /'Encoding', /'UniJIS-UTF16-H', /'Subtype', /'Type0', /'Type', /'Font']"
+6078,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6083,No objects to concatenate
+6089,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6091,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6094,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6095,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6104,only algorithm code 1 and 2 are supported
+6141,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6143,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6151,only algorithm code 1 and 2 are supported
+6157,only algorithm code 1 and 2 are supported
+6159,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6173,No objects to concatenate
+6176,only algorithm code 1 and 2 are supported
+6178,only algorithm code 1 and 2 are supported
+6181,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6183,'latin-1' codec can't encode characters in position 8-11: ordinal not in range(256)
+6188,only algorithm code 1 and 2 are supported
+6192,only algorithm code 1 and 2 are supported
+6194,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6197,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6200,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6203,No objects to concatenate
+6233,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6238,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6247,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+6250,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6255,No objects to concatenate
+6271,only algorithm code 1 and 2 are supported
+6273,only algorithm code 1 and 2 are supported
+6276,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6287,only algorithm code 1 and 2 are supported
+6291,only algorithm code 1 and 2 are supported
+6301,only algorithm code 1 and 2 are supported
+6306,only algorithm code 1 and 2 are supported
+6324,only algorithm code 1 and 2 are supported
+6326,No objects to concatenate
+6336,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6338,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6356,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6369,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6370,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6376,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6378,No objects to concatenate
+6383,only algorithm code 1 and 2 are supported
+6391,only algorithm code 1 and 2 are supported
+6400,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6403,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6406,only algorithm code 1 and 2 are supported
+6418,only algorithm code 1 and 2 are supported
+6425,only algorithm code 1 and 2 are supported
+6448,only algorithm code 1 and 2 are supported
+6465,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6470,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6481,only algorithm code 1 and 2 are supported
+6482,only algorithm code 1 and 2 are supported
+6502,only algorithm code 1 and 2 are supported
+6503,only algorithm code 1 and 2 are supported
+6506,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6513,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6532,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6533,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6539,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6544,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6549,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6553,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6555,No objects to concatenate
+6558,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6565,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6568,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6570,'latin-1' codec can't encode characters in position 8-9: ordinal not in range(256)
+6572,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6573,No objects to concatenate
+6579,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6580,No objects to concatenate
+6584,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6586,No objects to concatenate
+6588,only algorithm code 1 and 2 are supported
+6614,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6616,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6617,No objects to concatenate
+6628,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6632,only algorithm code 1 and 2 are supported
+6634,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6638,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6640,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6643,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6645,No objects to concatenate
+6648,No objects to concatenate
+6663,only algorithm code 1 and 2 are supported
+6664,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6694,No objects to concatenate
+6696,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6701,No objects to concatenate
+6702,No objects to concatenate
+6703,only algorithm code 1 and 2 are supported
+6724,only algorithm code 1 and 2 are supported
+6730,only algorithm code 1 and 2 are supported
+6737,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6752,only algorithm code 1 and 2 are supported
+6753,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6754,only algorithm code 1 and 2 are supported
+6762,only algorithm code 1 and 2 are supported
+6777,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6794,only algorithm code 1 and 2 are supported
+6798,No objects to concatenate
+6804,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6806,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6809,No objects to concatenate
+6817,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6823,No objects to concatenate
+6824,only algorithm code 1 and 2 are supported
+6841,only algorithm code 1 and 2 are supported
+6844,No objects to concatenate
+6855,No objects to concatenate
+6857,only algorithm code 1 and 2 are supported
+6861,only algorithm code 1 and 2 are supported
+6862,No objects to concatenate
+6863,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6866,only algorithm code 1 and 2 are supported
+6869,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6875,only algorithm code 1 and 2 are supported
+6894,No objects to concatenate
+6901,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:22>], /'Encoding', /'UniJIS-UTF16-H']"
+6924,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6937,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+6938,only algorithm code 1 and 2 are supported
+6942,only algorithm code 1 and 2 are supported
+6952,only algorithm code 1 and 2 are supported
+6954,only algorithm code 1 and 2 are supported
+6960,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6961,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+6966,No objects to concatenate
+6988,No objects to concatenate
+6995,"Invalid dictionary construct: [/'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'DescendantFonts', [<PDFObjRef:19>], /'Encoding', /'UniJIS-UTF16-H', /'Subtype', /'Type0', /'Type', /'Font']"
+6999,No objects to concatenate
+7013,only algorithm code 1 and 2 are supported
+7030,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7031,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7037,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7044,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7045,only algorithm code 1 and 2 are supported
+7057,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7064,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7065,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7070,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7073,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7076,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7082,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7085,'latin-1' codec can't encode characters in position 8-9: ordinal not in range(256)
+7087,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7088,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7089,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7091,No objects to concatenate
+7097,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7122,only algorithm code 1 and 2 are supported
+7177,only algorithm code 1 and 2 are supported
+7186,No objects to concatenate
+7192,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7198,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7202,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7213,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7215,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7220,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7231,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7235,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7240,only algorithm code 1 and 2 are supported
+7247,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7261,only algorithm code 1 and 2 are supported
+7270,only algorithm code 1 and 2 are supported
+7271,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7279,only algorithm code 1 and 2 are supported
+7282,"Invalid dictionary construct: [/'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'DescendantFonts', [<PDFObjRef:19>], /'Encoding', /'UniJIS-UTF16-H', /'Subtype', /'Type0', /'Type', /'Font']"
+7284,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7287,No objects to concatenate
+7325,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7327,No objects to concatenate
+7339,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7353,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7354,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7358,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7361,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7368,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7399,No objects to concatenate
+7412,No objects to concatenate
+7414,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7421,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7442,No objects to concatenate
+7443,No objects to concatenate
+7444,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7445,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7450,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7451,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7453,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7464,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7466,No objects to concatenate
+7477,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7482,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7483,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7486,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7505,only algorithm code 1 and 2 are supported
+7514,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7516,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7518,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7561,No objects to concatenate
+7564,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7567,No objects to concatenate
+7570,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+7575,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7587,only algorithm code 1 and 2 are supported
+7594,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7604,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7609,only algorithm code 1 and 2 are supported
+7615,No objects to concatenate
+7616,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7618,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7630,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+7676,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7681,No objects to concatenate
+7685,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7687,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7701,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x82o\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+7718,only algorithm code 1 and 2 are supported
+7731,only algorithm code 1 and 2 are supported
+7733,only algorithm code 1 and 2 are supported
+7735,only algorithm code 1 and 2 are supported
+7740,only algorithm code 1 and 2 are supported
+7744,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7751,only algorithm code 1 and 2 are supported
+7779,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7803,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7804,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7806,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7807,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7812,only algorithm code 1 and 2 are supported
+7813,No objects to concatenate
+7818,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7827,only algorithm code 1 and 2 are supported
+7829,No objects to concatenate
+7832,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7847,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7851,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7855,No objects to concatenate
+7864,only algorithm code 1 and 2 are supported
+7867,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7887,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7895,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7896,only algorithm code 1 and 2 are supported
+7898,only algorithm code 1 and 2 are supported
+7905,only algorithm code 1 and 2 are supported
+7908,No objects to concatenate
+7911,only algorithm code 1 and 2 are supported
+7912,only algorithm code 1 and 2 are supported
+7931,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7936,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:27>], /'Encoding', /'UniJIS-UTF16-H']"
+7947,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7949,only algorithm code 1 and 2 are supported
+7956,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7961,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7974,only algorithm code 1 and 2 are supported
+7976,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+7979,No objects to concatenate
+7984,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8001,only algorithm code 1 and 2 are supported
+8002,only algorithm code 1 and 2 are supported
+8005,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8007,No objects to concatenate
+8029,only algorithm code 1 and 2 are supported
+8030,No objects to concatenate
+8056,only algorithm code 1 and 2 are supported
+8058,only algorithm code 1 and 2 are supported
+8087,No objects to concatenate
+8098,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8104,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8105,No objects to concatenate
+8111,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8127,only algorithm code 1 and 2 are supported
+8132,only algorithm code 1 and 2 are supported
+8133,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8145,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8151,only algorithm code 1 and 2 are supported
+8154,only algorithm code 1 and 2 are supported
+8155,only algorithm code 1 and 2 are supported
+8166,"Invalid dictionary construct: [/'Type', /'Font', /'Subtype', /'Type0', /'BaseFont', /b""b'"", /""ABCDEE+\\x82l\\x82r \\x96\\xbe\\x92\\xa9'"", /'Encoding', /'Identity-H', /'DescendantFonts', <PDFObjRef:6>, /'ToUnicode', <PDFObjRef:12>]"
+8167,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8168,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8173,No objects to concatenate
+8179,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8194,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8200,No objects to concatenate
+8219,only algorithm code 1 and 2 are supported
+8225,No objects to concatenate
+8227,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8230,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8247,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8255,only algorithm code 1 and 2 are supported
+8260,No objects to concatenate
+8287,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8308,only algorithm code 1 and 2 are supported
+8336,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8358,No objects to concatenate
+8359,No objects to concatenate
+8366,No objects to concatenate
+8387,No objects to concatenate
+8395,No objects to concatenate
+8439,only algorithm code 1 and 2 are supported
+8511,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8518,only algorithm code 1 and 2 are supported
+8522,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+8524,No objects to concatenate
+8544,No objects to concatenate
+8560,"Invalid dictionary construct: [/'BaseFont', /b""b'"", /""ABCDEE+\\x82l\\x82r \\x96\\xbe\\x92\\xa9'"", /'DescendantFonts', <PDFObjRef:7>, /'Encoding', /'Identity-H', /'Subtype', /'Type0', /'ToUnicode', <PDFObjRef:13>, /'Type', /'Font']"
+8566,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8570,only algorithm code 1 and 2 are supported
+8591,only algorithm code 1 and 2 are supported
+8595,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8604,No objects to concatenate
+8613,only algorithm code 1 and 2 are supported
+8698,only algorithm code 1 and 2 are supported
+8700,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+8714,only algorithm code 1 and 2 are supported
+8732,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8742,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8766,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8769,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x83S\\x83V\\x83b\\x83N'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8802,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8803,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8830,only algorithm code 1 and 2 are supported
+8844,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8881,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8890,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8892,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8893,only algorithm code 1 and 2 are supported
+8918,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8929,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8938,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+8996,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x82o\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9007,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+9025,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9039,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9041,only algorithm code 1 and 2 are supported
+9042,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9052,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9062,No objects to concatenate
+9063,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9067,No objects to concatenate
+9081,No objects to concatenate
+9090,No objects to concatenate
+9101,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9127,only algorithm code 1 and 2 are supported
+9143,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9176,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9206,No objects to concatenate
+9232,only algorithm code 1 and 2 are supported
+9264,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9268,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9275,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9278,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9279,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9310,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:15>], /'Encoding', /'UniJIS-UTF16-H']"
+9312,No objects to concatenate
+9351,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9359,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9365,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9366,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9401,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9404,only algorithm code 1 and 2 are supported
+9408,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9419,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9422,only algorithm code 1 and 2 are supported
+9424,only algorithm code 1 and 2 are supported
+9428,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9432,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+9434,only algorithm code 1 and 2 are supported
+9468,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9505,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9511,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9532,only algorithm code 1 and 2 are supported
+9537,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9601,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9605,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9610,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9612,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9613,only algorithm code 1 and 2 are supported
+9616,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9621,only algorithm code 1 and 2 are supported
+9628,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9629,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9632,only algorithm code 1 and 2 are supported
+9637,only algorithm code 1 and 2 are supported
+9640,only algorithm code 1 and 2 are supported
+9644,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9679,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9684,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9692,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9696,No objects to concatenate
+9699,only algorithm code 1 and 2 are supported
+9706,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9744,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:17>], /'Encoding', /'UniJIS-UTF16-H']"
+9746,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9759,only algorithm code 1 and 2 are supported
+9766,only algorithm code 1 and 2 are supported
+9767,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9827,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9835,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9853,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9880,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9885,No objects to concatenate
+9890,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9946,No objects to concatenate
+9948,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9964,only algorithm code 1 and 2 are supported
+9978,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9983,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9984,only algorithm code 1 and 2 are supported
+9993,"Invalid dictionary construct: [/'Type', /'Font', /'BaseFont', /b""b'"", /""\\x82l\\x82r\\x96\\xbe\\x92\\xa9'"", /'Subtype', /'Type0', /'DescendantFonts', [<PDFObjRef:12>], /'Encoding', /'UniJIS-UTF16-H']"
+9996,No objects to concatenate
